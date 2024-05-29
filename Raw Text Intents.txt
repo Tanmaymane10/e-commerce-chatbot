@@ -1,0 +1,112 @@
+Default Fallback Intent
+
+1) I didn't understand what are you looking. Please check your text if there is any typo or check the name of the product you have been looking for. Thank you.
+
+2) Hmm, it looks like that's not quite related to watches. If you have any questions about our watch collection, brands, or anything else watch-related, feel free to ask, and I'll be happy to assist you!
+
+3) It seems like you're asking about something unrelated to watches. If you need assistance with watches or anything related to timepieces, feel free to ask! I'm here to help you with all things watch-related.
+
+Default Welcome Intent
+
+1) heya
+2) hello hi
+3) hey there
+4) hi there
+
+Text Response
+1) Hey! How can i help you today? Do you want to 'Track order' or 'Place order'
+2) Good day! How can i assist you today? Do you want to 'Track order' or 'Place order'
+3) Greetings! Long time no see, You can type 'Track order' or 'Place order'
+
+
+New order Intent
+1) I would like to buy something
+2) Fresh Order
+3) Start a brand-new order.
+
+Text Response
+
+1)Ok, starting a new order. We'd be happy to help you with that. Could you please let us know which brand you're interested in and the quantity of items you'd like to order?"
+
+2) Absolutely! We're here to assist you. Before we proceed, could you specify the brand you're interested in and the quantity you'd like to order?
+
+3) Great! We're standing by to assist you with your order. Could you please tell us which brand you're looking for and how many items you'd like to purchase?
+
+Order.add - context
+1) Add three 3 patek as well
+
+2) I need one hublot watc
+
+3) Add fastrack in my order
+
+Text Response
+1) Do you need Anything else
+
+order.complete - context
+
+1) that's it
+
+2) no I'm done with my order
+
+3) No, Thank you
+
+4) Thanks im done by the way
+
+Text Response
+1) Awesome. your order is placed. here is your order id, hope to see you back again soon.
+
+2) Great Job by ordering from our website here is your order id. hope to see you back again soon.
+
+Order.remove
+1) exclude titan from my order
+
+2) i would like to exclude the casio from my order please do it for me
+
+3) i would like to exclude the casio from my order please do it for me
+
+
+Recommendation Intent
+
+1) how about you recommend me something so it will be easy for me to buy
+
+2) please recommend me
+
+3) Give me some list of the product that you have in your inventory.
+
+4) Give me some list of the product that you have in your inventory.
+
+text response
+
+1) So i can recommend you casio, rolex, patek phillipe, these are the watches that are most frequently bought.
+
+2) Here are some watches that are bought more frequently by our customers. 
+They are as follows:-
+Rolex
+Patek Phillipe
+Sonata
+Casio
+Richard Millee.
+
+3) I think this watches will be best for you:
+
+Hublot
+Casio
+Patek Phillipe
+Fastrack
+Sonata
+
+Track Order Intent
+Check the progress of my order, please
+When will my order arrive?
+Give me an update on my order
+What's the status of my order?
+
+Text Response
+
+1) Please provide me your tracking ID.
+2) Let me check on that for you  provide your order id please.
+3) No problem, I'll get the status of your order for you provide your order id please.
+4) I'm on it! Let me retrieve your order information provide your order id please.
+
+
+
